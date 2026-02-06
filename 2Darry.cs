@@ -1,3 +1,4 @@
+//2D aary program length using foreach
 using System;
 class Program19
 {

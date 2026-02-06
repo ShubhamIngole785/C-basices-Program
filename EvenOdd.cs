@@ -1,3 +1,4 @@
+// if else even odd progrm
 using System;
 class Program6
 {

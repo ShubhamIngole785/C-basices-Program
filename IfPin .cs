@@ -1,3 +1,4 @@
+// if else first program pin same program
 using System;
 class Program5
 {

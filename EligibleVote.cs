@@ -1,3 +1,4 @@
+//Eligibe gor vote
 using System;
 class Program
 {

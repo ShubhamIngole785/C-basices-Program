@@ -1,3 +1,4 @@
+//using && operator program using if else and print averaje 
 using System;
 class Program8
 {
